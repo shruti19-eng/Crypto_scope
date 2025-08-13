@@ -1,0 +1,6 @@
+{
+  "name": "Cryptoscope",
+  "description": "A modern web application to track cryptocurrency prices and market data using the CoinGecko API. View real-time prices, historical charts, and key market statistics for top cryptocurrencies in a sleek, responsive interface.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
